@@ -1,0 +1,8 @@
+{
+    "name": "hagig79/petitgen",
+    "type": "project",
+    "require": {
+        "michelf/php-markdown": "^1.8"
+    },
+    "license": "MIT"
+}
