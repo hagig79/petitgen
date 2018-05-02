@@ -2,7 +2,8 @@
     "name": "hagig79/petitgen",
     "type": "project",
     "require": {
-        "michelf/php-markdown": "^1.8"
+        "michelf/php-markdown": "^1.8",
+        "webuni/front-matter": "^1.0"
     },
     "license": "MIT"
 }
